@@ -109,8 +109,7 @@ Please install or have installed the following:
 
 After installing node open a terminal in your code editor (VS Code for example) and clone this repository :
    ```sh
-   git clone https://github.com/kaymen99/ClassyDogs-NFT-Project.git
-   cd ClassyDogs-NFT-Project
+   git clone https://github.com/andread96/ClassyDogs-NFT
    ```
 
 Then install the art engine dependancies by running :
@@ -213,19 +212,11 @@ To start the user interface just run the following commands :
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- Ressources -->
-## Ressources
-
-If you want to learn more about NFT projects, these great tutorials may help:
-* [How to create an NFT collection - Masterclass](https://www.youtube.com/watch?v=Zhmj4PiJ-GA) by hashlips
-* [BEST NFT Collection Minting Site (dApp) - Entire Process! Whitelist & Launch a Collection (10,000+)](https://www.youtube.com/watch?v=cLB7u0KQFIs&t=270s)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Contact -->
 ## Contact
 
-If you have any question or problem running this project just contact me: aymenMir1001@gmail.com
+If you have any question or problem running this project just contact me.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
